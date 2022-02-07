@@ -20,5 +20,6 @@
 * 팀명: 감자마을친구들
 * 팀장: 고건욱(학사 3학년)
 * 팀원: 김성곤(학사 3학년), 김태연(학사 3학년), 민규선(학사 3학년), 이성찬(학사 3학년)
+* 소속: 연세대학교 미래캠퍼스 정보통계학과
 
 <p align="center"><img src="https://user-images.githubusercontent.com/75540155/152717274-d6ffd147-ad4d-4524-8136-43a0be1afc91.png" width="640" height="360"/></p>
