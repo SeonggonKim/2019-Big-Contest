@@ -21,8 +21,4 @@
 * 팀장: 고건욱(학사 3학년)
 * 팀원: 김성곤(학사 3학년), 김태연(학사 3학년), 민규선(학사 3학년), 이성찬(학사 3학년)
 
-### Review
-* 본선PT 후기 https://data-miner-gon.tistory.com/151?category=856007
-* 시상식 후기 https://data-miner-gon.tistory.com/160?category=856007   
-
-<p align="center"><img src="https://user-images.githubusercontent.com/75540155/152717132-c1309dcb-60d8-4def-8979-670af621c4a8.png" width="640" height="360"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/75540155/152717274-d6ffd147-ad4d-4524-8136-43a0be1afc91.png" width="640" height="360"/></p>
